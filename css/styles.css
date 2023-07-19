@@ -37,6 +37,22 @@ h4 {
     text-align:inherit;
 }
 
+h5 {
+    color: #DCDCDC;
+    text-transform: uppercase;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-align: center;
+}
+
+a[href^="https"] {
+    color: #DCDCDC;
+    text-transform: uppercase;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-align: center;
+}
+
 #p1 {
     text-align: justify;
     inline-size: 450px;
